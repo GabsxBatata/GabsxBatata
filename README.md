@@ -5,8 +5,6 @@
 * 🚀 I’m currently working on [Navegam](https://gruponavegam.com.br/)
 * 🌱 I’m currently learning **Full Stack development**
 * 📫 How to reach me **carlosgabriel.limas27@gmail.com**
-* 🧠  I'm learning Dev Full Stack
-* 🤝  I'm open to collaborating on Front-End
 
 ## Skills
 
